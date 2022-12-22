@@ -9,4 +9,4 @@ The model was derived from the __Nat Med__ publication ["Modeling transmission o
 
 The original model was extremely valuable, but we made some substantial modifications, including the addition of a correction for herd immunity and updated parameters for the Hong Kong, Macau, and Singapore outbreaks.
 
-The results files were too large to put in this repo, so only the results of Model 6 were provided here, and the results of the other models will be provided if requested.
+The results files were too large to put in this repo, so the results of the models will be provided if requested.
